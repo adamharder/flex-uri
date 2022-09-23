@@ -11,7 +11,7 @@ setup(
     version="0.1",
     packages=find_packages(
         include=[
-            "FlexUri",
+            "flexuri",
         ]
     ),
     url="https://github.com/adamharder/flex-uri",
